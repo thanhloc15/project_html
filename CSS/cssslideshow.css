@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#slideshow {
+  overflow: hidden;
+  width: 768px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+
+.boxslider{
+	width: 400px;
+	height: 300px;
+}
